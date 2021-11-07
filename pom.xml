@@ -43,7 +43,7 @@
 	<scm>
 		<connection>scm:git@github.com:denizsalman/sfg-pet-clinic.git</connection>
 		<!-- Solves the "The provider given in the SCM URL could not be found: No such provider: 'git'."" error -->
-		<developerConnection>scm:git:https://github.com/denizsalman/sfg-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:denizsalman/sfg-pet-clinic.git</developerConnection>
 	  <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
